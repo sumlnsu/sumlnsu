@@ -22,6 +22,6 @@
 <div align="center">
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={smo1621})](https://solved.ac/{smo1621}) &nbsp; &nbsp;&nbsp;
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=smo1621)](https://solved.ac/smo1621) &nbsp; &nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumlnsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
