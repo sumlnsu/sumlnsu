@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=slice&text=sumlnsu&color=timeGradient&height=200&animation=fadeIn&desc=AI%20and%20Data%20Scientist&fontSize=64&descSize=24&rotate=13&fontAlign=80&fontAlignY=39&descAlign=49&descAlignY=43)
+  ![header](https://capsule-render.vercel.app/api?type=slice&text=sumlnsu&color=timeGradient&height=200&animation=fadeIn&desc=Data%20Analyst&fontSize=64&descSize=24&rotate=13&fontAlign=80&fontAlignY=39&descAlign=55&descAlignY=43)
 </div>
 
 <div align="center">
